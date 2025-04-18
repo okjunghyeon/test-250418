@@ -8,6 +8,6 @@ class HomeController {
 
     @GetMapping
     fun home(): String {
-        return "Hello Kotlin!"
+        return "Hello Kotlin!! change"
     }
 }
